@@ -4,8 +4,6 @@ ViveSpacialPerceptionTests is a research application designed to study how peopl
 
 Unfortunately, the harmony of these cues is disrupted in VR. For example, in HMDs, when looking at a virtual object, the eyes accommodate on the screen plane but converge based on the apparent location of the object, causing a conflict in the usual relationship between these cues. As a consequence, the perception of distance is distorted. Additionally, HMDs like the HTC Vive have a smaller field of view compared to our normal vision, which can influence our perception of direction and orientation. Finally, we cannot walk long distances naturally in VR as we do in the physical world, so we use interaction devices like a treadmill or a controller to navigate in the virtual environment, forcing the visual system to recalibrate the action/stimulus patterns.
 
-[![Watch the video](https://img.youtube.com/vi/2cuscqSmRmU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2cuscqSmRmU)
-
 The study is composed of two tests:
 
 ## Distance perception test
@@ -17,6 +15,8 @@ To assess the perception of distances, we use a test called blind-walking. Blind
 ## Path integration test
 
 To assess path integration, we use a test called homing by triangle completion. In this task, the subject is usually guided along two sides of a triangular path while being deprived of external visual cues for the last path. The task is designed to test how well the subject can integrate their movements to estimate their location relative to the starting point. Subjects must estimate where their starting point was while blindfolded and navigating different triangle shapes. Similarly, they perform this test twice: once using a VR controller and once using a Virtuix Omni Treadmill in the two natural-looking scenes.
+
+[![Watch the video](https://img.youtube.com/vi/2cuscqSmRmU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2cuscqSmRmU)
 
 ![Promo](imgs/3.png)
 
