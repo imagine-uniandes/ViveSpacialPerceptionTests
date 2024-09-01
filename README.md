@@ -56,6 +56,7 @@ A video of the experimental setup and protocol can be found here: https://www.yo
 ## Credits
 
 Developed by Jose L. Dorado (jl.dorado59@uniandes.edu.co,  jl-dorado@hotmail.com). 
+
 PhD thesis directed by Pablo Figuero (pfiguero@uniandes.edu.co), Jose Tiberio Hernandez (jhernand@uniandes.edu.co), Frederic Merienne (frederic.merienne@ensam.eu), Jean Remmy Chardonnet (jean-remy.chardonnet@ensam.eu)
 
 Copyright 2019 © Grupo Imagine Uniandes
