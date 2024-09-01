@@ -46,14 +46,17 @@ To assess path integration, we use a test called homing by triangle completion. 
 
 7. That's all!. After finishing the test you can find in the folder data, the data of the tests with the user's performace.  
 
-![Promo](imgs/1.jpg)
 
 ## Paper
 
-More information about this study and its results can be found in https://ieeexplore.ieee.org/document/8798344
+More information about this study and its results can be found in https://ieeexplore.ieee.org/document/8798344. 
+
+A video of the experimental setup and protocol can be found here: https://www.youtube.com/watch?v=2cuscqSmRmU
 
 ## Credits
 
 Developed by Jose L. Dorado (jl.dorado59@uniandes.edu.co,  jl-dorado@hotmail.com). 
-Copyright 2022 © Grupo Imagine Uniandes
+PhD thesis directed by Pablo Figuero (pfiguero@uniandes.edu.co), Jose Tiberio Hernandez (jhernand@uniandes.edu.co), Frederic Merienne (frederic.merienne@ensam.eu), Jean Remmy Chardonnet (jean-remy.chardonnet@ensam.eu)
+
+Copyright 2019 © Grupo Imagine Uniandes
 https://imagine.uniandes.edu.co
