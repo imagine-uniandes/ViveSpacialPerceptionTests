@@ -20,13 +20,6 @@ To assess path integration, we use a test called homing by triangle completion. 
 
 ![Promo](imgs/3.png)
 
-## Paper
-
-More information about this study and its results can be found in https://ieeexplore.ieee.org/document/8798344
-
-## Requirements
-
-
 ## Requirements
 
 1. Unity3D version 2017.
@@ -54,6 +47,10 @@ More information about this study and its results can be found in https://ieeexp
 7. That's all!. After finishing the test you can find in the folder data, the data of the tests with the user's performace.  
 
 ![Promo](imgs/1.jpg)
+
+## Paper
+
+More information about this study and its results can be found in https://ieeexplore.ieee.org/document/8798344
 
 ## Credits
 
