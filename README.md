@@ -40,9 +40,9 @@ To assess path integration, we use a test called homing by triangle completion. 
 
 4. Download the project code, there are two scenes 'MainSceneA.scene' and 'MainSceneB', each one contains a different scene in which the test will be performed.
 
-5. Open any of the scenes and execute play, follow the instructions in the headset. Select the interaction device, either the VR controller or the Virtuix omni treadmill.
+5. Open any of the scenes and execute play, follow the instructions in the headset. 
 
-6. Follow the intructions in the screen. You must perform first the path integration tests and then the distance perception tests.
+6. Select the interaction device, either the VR controller or the Virtuix omni treadmill. Then, you must perform first the path integration tests and then the distance perception tests.
 
 7. That's all!. After finishing the test you can find in the folder data, the data of the tests with the user's performace.  
 
